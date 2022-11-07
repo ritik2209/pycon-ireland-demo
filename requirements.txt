@@ -1,4 +1,5 @@
 fastapi==0.63.0
+gunicorn==19.9.0
 uvicorn==0.15.0
 torchvision==0.11.3
 Pillow==9.0.0
